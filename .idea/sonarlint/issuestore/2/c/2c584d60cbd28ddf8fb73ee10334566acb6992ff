@@ -1,0 +1,7 @@
+
+0
+java:S1220""Move this file to a named package.
+V	java:S125"<This block of commented-out lines of code should be removed.(Ø©äñüÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'javax.swing.JOptionPane'.(÷‰Îé
