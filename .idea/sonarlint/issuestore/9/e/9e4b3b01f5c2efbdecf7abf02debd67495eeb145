@@ -1,0 +1,9 @@
+
+[	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(Ï“ÓÔ
+`	java:S112f"FDefine and throw a dedicated exception instead of using a generic one.(ÌÒ¬Šşÿÿÿÿ
+`	java:S112t"FDefine and throw a dedicated exception instead of using a generic one.(ğÀöİşÿÿÿÿ
+Œ
+java:S1319L"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(“èî›üÿÿÿÿ
+E	java:S1069"+Replace this use of System.out by a logger.(‰óùØÿÿÿÿÿ
+@	java:S106<"+Replace this use of System.out by a logger.(æÃøª
+@	java:S106?"+Replace this use of System.out by a logger.(¢ƒªË

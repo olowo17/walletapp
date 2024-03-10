@@ -1,0 +1,9 @@
+
+l
+java:S3008
+"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à³¿¿ûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ŸÏÆ
+J
+java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ
+T
+java:S1128"9Remove this unused import 'java.util.logging.LogManager'.(›½ø·þÿÿÿÿ
